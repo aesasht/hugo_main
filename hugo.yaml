@@ -6,7 +6,7 @@ theme: ["PaperMod"]
 params:
   homeInfoParams:
     Title: Hi there!
-    Content: Welcome to my blog
+    Content: 😘Welcome to my blog
 
   socialIcons:
     - name: bilibili
