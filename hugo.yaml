@@ -2,3 +2,5 @@ baseURL: "https://aesasht.github.io/hugo_main/"
 languageCode: en-us
 title: My New Hugo Site
 theme: ["PaperMod"]
+params:
+  title: aesasht.io
