@@ -1,4 +1,4 @@
-baseURL: "https://aesasht.github.io/hugo_main/"
+baseURL:
 languageCode: en-us
 title: Aesasht
 theme: ["PaperMod"]
