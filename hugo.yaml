@@ -2,3 +2,13 @@ baseURL: https://aesasht.github.io/
 languageCode: en-us
 title: Aesash
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: Hi there!
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: bilibili
+      titile: this is my bilibili page, there are some vedios for you.
+      url: "bilibili.com/space.bilibili.com/475632207"
