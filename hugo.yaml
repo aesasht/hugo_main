@@ -10,5 +10,8 @@ params:
 
   socialIcons:
     - name: bilibili
-      titile: this is my bilibili page, there are some vedios for you.
+      title: this is my bilibili page, there are some vedios for you.
       url: "https://space.bilibili.com/475632207"
+    - name: github
+      title: My github page.
+      url: "https://github.com/aesasht"
