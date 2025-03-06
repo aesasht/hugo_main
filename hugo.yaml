@@ -5,8 +5,8 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: Hi there!
-    Content: Here, the world!!!ψ(｀∇´)ψ
+    Title: Here, the world!!!ψ(｀∇´)ψ
+    Content: Welcom to my blog  /(*/ω＼*)\  Enjoy it!
 
   socialIcons:
     - name: bilibili
